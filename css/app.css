@@ -1,0 +1,47 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+main{
+    background-color: #EDEDED;
+}
+
+main div{
+   background-color: burlywood;
+   padding: 13px; 
+}
+
+main div ol{
+    background-color: cornflowerblue;
+    padding: 5px;
+    padding-right: 0px;
+}
+
+main div ol li{
+    background-color: crimson;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: white;
+    font-size: 1.4rem;
+}
+
+main p{
+    font-size: 1.3rem;
+    color: red;
+}
+
+.list{
+    color: violet
+}
+
+.list:nth-child(3){
+    color: blue;
+}
+
+#texto1{
+    color: blue;
+}
+
+#texto2{
+    color: blueviolet;
+}
